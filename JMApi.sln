@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JMApi", "JMApi\JMApi.csproj", "{2FF46B04-78F6-428C-8311-3FB99EC8DA83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF46B04-78F6-428C-8311-3FB99EC8DA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF46B04-78F6-428C-8311-3FB99EC8DA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF46B04-78F6-428C-8311-3FB99EC8DA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF46B04-78F6-428C-8311-3FB99EC8DA83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80248750-01A5-49A9-91CE-8F9EECBB3AA4}
+	EndGlobalSection
+EndGlobal
